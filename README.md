@@ -22,11 +22,10 @@ to test their luck. With randomized outcomes and payouts, the game ensures an en
 5. Continue playing until you decide to quit or run out of funds.
    
 #Symbol Details
-Symbol |	Count (per reel) |	Value (per line match)
-  A    |        	2	       |           $5
-  B	   |          4	       |           $4
-  C	   |          6	       |           $3
-  D	   |          8	       |           $2
+Symbols: A, B, C, D
+Count (per reel): 2, 4, 6, 8 (Respectively)
+Value (per line match): $5, $4, $3, $2 (Respectively)
+
 
 #How to Play
 1. Run the Game: Execute the script in a Python environment.
